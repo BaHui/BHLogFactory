@@ -76,13 +76,13 @@
 		6FF7E6D0214D5EFB00678DE9 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				6FF7E6D6214D718B00678DE9 /* LICENSE */,
-				6FF7E6D5214D6B0F00678DE9 /* BHLogFactory.podspec */,
-				6FF7E6C2214D5EAF00678DE9 /* Assets.xcassets */,
-				6FF7E6BF214D5EAF00678DE9 /* Main.storyboard */,
-				6FF7E6C4214D5EAF00678DE9 /* LaunchScreen.storyboard */,
-				6FF7E6C7214D5EAF00678DE9 /* Info.plist */,
 				6FF7E6C8214D5EB000678DE9 /* main.m */,
+				6FF7E6C7214D5EAF00678DE9 /* Info.plist */,
+				6FF7E6D6214D718B00678DE9 /* LICENSE */,
+				6FF7E6BF214D5EAF00678DE9 /* Main.storyboard */,
+				6FF7E6D5214D6B0F00678DE9 /* BHLogFactory.podspec */,
+				6FF7E6C4214D5EAF00678DE9 /* LaunchScreen.storyboard */,
+				6FF7E6C2214D5EAF00678DE9 /* Assets.xcassets */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
