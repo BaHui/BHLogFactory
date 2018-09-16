@@ -1,10 +1,12 @@
-##使用Pod导入
+使用Pod导入
+
 pod 'BHLogFactory', '~> 1.1.0'
+
 > 提示： 利用`Runtime`, 无需导入如何头文件到项目中;
 
 -------------------
 
-##简介
+简介
 
 >  BHLogFactory 是为了处理控制台打印的中文被unicode编码 。产生类似于 `U7ea2\U5305\U96e8\U6d3b\U52a8`的unicode编码 , 不利于开发的调试 ;  所以, 使用这个工具, 可以将我们不易识别的unicode编码转换为具备可读性的中文.
 >  
@@ -34,7 +36,7 @@ pod 'BHLogFactory', '~> 1.1.0'
 }
 ```
 
-## 交流与建议
+交流与建议
 - GitHub：<https://github.com/BaHui>
 - 邮  箱：<qiaobahuiyouxiang@163.com>
 
