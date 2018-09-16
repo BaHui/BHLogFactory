@@ -17,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6F256723214E2A4800E373B1 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		6FF7E6B6214D5EAF00678DE9 /* BHLogFactoryDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BHLogFactoryDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6FF7E6B9214D5EAF00678DE9 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		6FF7E6BA214D5EAF00678DE9 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -27,7 +28,6 @@
 		6FF7E6C5214D5EAF00678DE9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6FF7E6C7214D5EAF00678DE9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6FF7E6C8214D5EB000678DE9 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		6FF7E6D5214D6B0F00678DE9 /* BHLogFactory.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = BHLogFactory.podspec; sourceTree = SOURCE_ROOT; };
 		6FF7E6D6214D718B00678DE9 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = SOURCE_ROOT; };
 		6FF7E6D7214D745A00678DE9 /* BHLogFactory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BHLogFactory.m; path = BHLogFactory/BHLogFactory.m; sourceTree = SOURCE_ROOT; };
 		6FF7E6D8214D745A00678DE9 /* BHLogFactory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BHLogFactory.h; path = BHLogFactory/BHLogFactory.h; sourceTree = SOURCE_ROOT; };
@@ -76,11 +76,11 @@
 		6FF7E6D0214D5EFB00678DE9 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				6F256723214E2A4800E373B1 /* README.md */,
 				6FF7E6C8214D5EB000678DE9 /* main.m */,
 				6FF7E6C7214D5EAF00678DE9 /* Info.plist */,
 				6FF7E6D6214D718B00678DE9 /* LICENSE */,
 				6FF7E6BF214D5EAF00678DE9 /* Main.storyboard */,
-				6FF7E6D5214D6B0F00678DE9 /* BHLogFactory.podspec */,
 				6FF7E6C4214D5EAF00678DE9 /* LaunchScreen.storyboard */,
 				6FF7E6C2214D5EAF00678DE9 /* Assets.xcassets */,
 			);
